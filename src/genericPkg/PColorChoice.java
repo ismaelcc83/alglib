@@ -3,7 +3,7 @@ package genericPkg;
 import java.util.Random;
 import java.util.Scanner;
 
-public class FColorChoice{
+public class PColorChoice{
 	
 	public static void execute()
 	{
